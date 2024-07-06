@@ -1,5 +1,3 @@
-
-
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Navbar from "../Components/Navbar";
@@ -162,7 +160,7 @@ const PortfolioCard = ({
         }`}
       >
         <div className="relative mb-12">
-          <div className="overflow-hidden rounded-[10px]">
+          <div className="overflow-hidden rounded-[10px] h-[300px]">
             <img src={ImageHref} alt="portfolio" className="w-full" />
           </div>
           <div className="relative z-10 mx-7 -mt-20 rounded-lg bg-gray-100 dark:bg-dark-2 py-[34px] px-3 text-center shadow-portfolio dark:shadow-box-dark">

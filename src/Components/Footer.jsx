@@ -77,7 +77,7 @@ const Footer = () => {
                 <div className="mb-6 flex items-center justify-center sm:justify-start">
                   <a
                     href="javascript:void(0)"
-                    className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary  hover:text-white dark:border-dark-3 dark:text-white dark:hover:border-primary sm:mr-4 lg:mr-3 xl:mr-4"
+                    className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary  hover:text-white dark:border-dark-3 dark:text-white dark:hover:border-black sm:mr-4 lg:mr-3 xl:mr-4"
                   >
                     <svg
                       width="8"
@@ -90,7 +90,7 @@ const Footer = () => {
                   </a>
                   <a
                     href="javascript:void(0)"
-                    className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary  hover:text-white dark:border-dark-3 dark:text-white dark:hover:border-primary sm:mr-4 lg:mr-3 xl:mr-4"
+                    className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary  hover:text-white dark:border-dark-3 dark:text-white dark:hover:border-black sm:mr-4 lg:mr-3 xl:mr-4"
                   >
                     <svg
                       width="16"
@@ -103,7 +103,7 @@ const Footer = () => {
                   </a>
                   <a
                     href="javascript:void(0)"
-                    className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary  hover:text-white dark:border-dark-3 dark:text-white dark:hover:border-primary sm:mr-4 lg:mr-3 xl:mr-4"
+                    className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary  hover:text-white dark:border-dark-3 dark:text-white dark:hover:border-black sm:mr-4 lg:mr-3 xl:mr-4"
                   >
                     <svg
                       width="16"
@@ -116,7 +116,7 @@ const Footer = () => {
                   </a>
                   <a
                     href="javascript:void(0)"
-                    className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary  hover:text-white dark:border-dark-3 dark:text-white dark:hover:border-primary sm:mr-4 lg:mr-3 xl:mr-4"
+                    className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary  hover:text-white dark:border-dark-3 dark:text-white dark:hover:border-black sm:mr-4 lg:mr-3 xl:mr-4"
                   >
                     <svg
                       width="14"

@@ -19,7 +19,7 @@ const SingleCard = ({
     return (
       <>
         {/*  */}
-        <div className="mb-8 overflow-hidden rounded-lg bg-white  duration-300 shadow-lg shadow-gray-600 border   transition-transform transform-gpu hover:scale-110 ">
+        <div className="mb-8 overflow-hidden rounded-lg bg-white  pb-4 duration-300 shadow-lg shadow-gray-600 border   transition-transform transform-gpu hover:scale-110 ">
           <div className="h-[300px] overflow-hidden">
             <img src={image} alt="" className="w-full  items-center" />
           </div>
@@ -43,7 +43,7 @@ const SingleCard = ({
                 onClick={()=>{setModalOpen(true)}}
               >
                 {Button}
-                <TiTick size={25} className=' text-green-700  inline-block ml-2'/>
+                {/* <TiTick size={25} className=' text-green-700  inline-block ml-2'/> */}
               </button>
             )}
           </div>
